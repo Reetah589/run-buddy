@@ -1,16 +1,16 @@
-# Run Buddy, Inc
+# Run Buddy
 
-##Purpose
+## Purpose
 A website that offers fitness training services
 
-##Built With
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
-##Website
+## Website
 https://github.com/Reetah589/run-buddy/
 
-##Contribution
+## Contribution
 Made with Love by Reetah
 
 2019 Run Buddy, Inc
